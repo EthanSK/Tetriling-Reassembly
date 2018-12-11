@@ -1,0 +1,5 @@
+__pycache__/*
+main.pyc
+utils.pyc
+.vscode/*
+*.pdf
