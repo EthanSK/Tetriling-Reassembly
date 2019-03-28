@@ -1,4 +1,6 @@
-Fast and quite accurate solution for the tetriling reassembly problem as described by the spec.pdf in the root dir.
+# Tetriling reassembly problem solver
+
+Fast and quite accurate solution for the tetriling reassembly problem.
 
 1000x1000 usually solves in less than 30 seconds for any density, with accuracy almost always above 90%
 
